@@ -43,6 +43,11 @@ In this project-
 ## ETL Project Results ##
 
 - Category and Subcategory dataframe
+  
+![alt text](https://github.com/mdyousufreja/Crowdfunding_ETL/assets/135454460/c0def823-c24a-42f4-93c3-2527b14c1ffd)
+
+- Campaign Dataframe
+- Contacts Dataframe
 - 
   
 
