@@ -32,4 +32,8 @@ The guidelines for this project are organized into the subsequent segments:
 
 ## Project Methods ##
 
-In this project, we employed the following programming languages, software, and libraries:
+In this project-
+
+- We created a repository for this project and named Crowdfunding_ETL, and cloned it to our loacl computer.
+- we employed the following programming languages, software, and libraries:
+   - python, postgres, pandas, JSON, Jupyter Notebook, Visual Studio Code, QuickDBD,  NumPy, RegEx
