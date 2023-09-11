@@ -66,7 +66,9 @@ In this project-
 
 
 - **Created Tables**
-   -Finally, we created tables and imported data from four CSVs using postgres sql.   
+   -Finally, we created tables and imported data from four CSVs using postgres sql.
+  
+![alt text](https://github.com/mdyousufreja/Crowdfunding_ETL/assets/135454460/93cf7450-f7af-40b2-a62c-b8370989f314)
 
 
 ## References ##
