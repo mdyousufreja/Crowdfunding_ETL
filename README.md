@@ -29,3 +29,7 @@ The guidelines for this project are organized into the subsequent segments:
 2. Construct the DataFrame for Campaigns
 3. Establish the DataFrame for Contacts
 4. Establish the Crowdfunding Database
+
+## Project Methods ##
+
+In this project, we employed the following programming languages, software, and libraries:
