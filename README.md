@@ -52,11 +52,17 @@ In this project-
 ![alt text](https://github.com/mdyousufreja/Crowdfunding_ETL/assets/135454460/8fd1d749-5a76-479a-bce1-976ae521d369)
 
 
-- **Contacts Dataframe**
+ - **Contacts Dataframe**
 
 ![alt text](https://github.com/mdyousufreja/Crowdfunding_ETL/assets/135454460/524616a2-8138-442e-83f7-877aef7cc3dd)
 
-- 
+- **Crowdfunding Database**
+     Within this project, Entity-Relationship Diagrams (ERDs) served as the principal modeling technique, executed through the utilization of the QUICK DBD application.These ERDs exposed the existence of four fundamental entities within the crowdfunding database, which are categories, subcategories, campaigns, and contacts. Below figure 
+     visually illustrates the outcome of this modeling endeavor. Moreover, for an in-depth understanding of the Crowdfunding ERD, a comprehensive documentation is available.
+
+  
+![alt text](https://github.com/mdyousufreja/Crowdfunding_ETL/assets/135454460/05b93f2e-4ed4-467e-b065-773c66d058bf)
+
   
 
 
