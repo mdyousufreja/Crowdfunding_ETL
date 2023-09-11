@@ -37,3 +37,8 @@ In this project-
 - We created a repository for this project and named Crowdfunding_ETL, and cloned it to our loacl computer.
 - we employed the following programming languages, software, and libraries:
    - python, postgres, pandas, JSON, Jupyter Notebook, Visual Studio Code, QuickDBD,  NumPy, RegEx
+- We created the Category and Subcategory, Campaign, and Contacts Dataframes.
+- Finally, we created the Crowdfunding database using the above mentioned Dataframes. 
+
+ 
+
