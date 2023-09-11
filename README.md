@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-![alt text]![R](https://github.com/leedthanh/Crowdfunding_ETL/assets/135454460/80b89f66-be0e-4eb3-a543-f299df0111cf)
+[R](https://github.com/leedthanh/Crowdfunding_ETL/assets/135454460/80b89f66-be0e-4eb3-a543-f299df0111cf)
 
 
 Practice building an ETL pipeline using Python, Pandas to extract and transform
